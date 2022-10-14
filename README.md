@@ -18,5 +18,5 @@ https://www.kaggle.com/datasets
 
 ---
 ## 이미지 연습
-! [디스코드 아이콘](![image](https://user-images.githubusercontent.com/101052855/195865628-3d24d873-8b5c-4269-81da-ee377562dbb2.png)
+![이미지 삽입](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
 )
