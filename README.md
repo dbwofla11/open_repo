@@ -14,3 +14,8 @@
 
 # 데이터 수집장소 
 https://www.kaggle.com/datasets 
+
+
+---
+## 이미지 연습
+! [디스코드 아이콘](https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https:%2F%2Ft1.daumcdn.net%2Fcfile%2Ftistory%2F99823C3B5EFF318820)
