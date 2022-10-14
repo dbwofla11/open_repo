@@ -1,5 +1,7 @@
-# open_repo
+# open_repo "#"하면 제목이 됨 
 ### 오픈소스 기초설계 
+
+"---" 하면 이렇게 줄이 그어짐 
 ---
 * 마크다운은
 * 이렇게 
@@ -11,4 +13,4 @@
 3. 확인좀 해주세요 !! ^^ 
 
 # 데이터 수집장소 
-https://www.kaggle.com/datasets
+https://www.kaggle.com/datasets 
