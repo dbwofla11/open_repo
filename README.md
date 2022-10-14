@@ -18,4 +18,5 @@ https://www.kaggle.com/datasets
 
 ---
 ## 이미지 연습
-! [디스코드 아이콘](https://w.namu.la/s/eafc347f795dbe8353b51eaaa97a973bd64d8fc771fb54af02e9401bed982ce6d631df194980bee7567e1f2d70610b2a75cf41ca0d33483d847a17c84632265fe1f5e4661803ed41bf275ecec0beeb54f262c0ff65d70ff3668b8293cccccd41)
+! [디스코드 아이콘](![image](https://user-images.githubusercontent.com/101052855/195865628-3d24d873-8b5c-4269-81da-ee377562dbb2.png)
+)
